@@ -1,0 +1,20 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+
+    background-image: url("seccion1.png"); /*ruta de la imagen */
+    background-size: cover; /*ajusta la imagen para cubrir todo el fondo */
+    background-position: center; /* centrar la imagen */
+    background-repeat: no-repeat; /*evita que la imagen se repita*/
+   
+
+}
+h1{
+    font-size: 4rem;
+    color: blanchedalmond;
+    
+}
+
+p{
+    font-size: 8rem;
+    color: aliceblue;
+}

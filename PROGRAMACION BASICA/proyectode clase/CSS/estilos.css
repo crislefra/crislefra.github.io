@@ -1,0 +1,39 @@
+body{
+    background-color: blue;
+}
+
+.contenedor{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0px;
+
+}
+.item{
+    width: 33%;
+    height: auto ;
+    background-color: rgb(33, 111, 230);
+   
+}
+
+.item{
+    width: 33%;
+    height: auto ;
+    background-color: rgb(33, 111, 230;
+
+}
+
+@media (max-width: 600px) {
+    .contenedor{
+        -ms-flex-direction: column;
+    }
+}
+
+
+
+
+
+
+
+
